@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Papa é Pop",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "03:25",
+        "url": "../playlist/assets/musicas/01_O_Papa_e_Pop.mp3"
+    },   
+    {
+        "id": 2,
+        "titulo": "Toda forma de poder",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "03:13",
+        "url": "../playlist/assets/musicas/01_Toda_forma_de_poder.mp3"
+        
+    },
+    {
+        "id": 3,
+        "titulo": "Eu que não amo você",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "03:16",
+        "url": "../playlist/assets/musicas/02_Eu_que_não_amo_voce.mp3"
+    },
+    {
+        "id": 4,
+        "titulo": "Simples de Coração",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "04:22",
+        "url": "../playlist/assets/musicas/04_Simples_de_Coracao.mp3"
+    },
+    {
+        "id": 5,
+        "titulo": "Freud Flintstone",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "03:16",
+        "url": "../playlist/assets/musicas/05_Freud_Flintstone.mp3"
+    },
+    {
+        "id": 6,
+        "titulo": "Infinita Highway",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "04:18",
+        "url": "../playlist/assets/musicas/04_Infinita_Highway.mp3"
+    },
+    {
+        "id": 7,
+        "titulo": "Refrão de Bolero",
+        "cantor": "Engenheiros do Hawaii",
+        "tempo": "03:22",
+        "url": "../playlist/assets/musicas/09RefraodeBolero.mp3"
+    }
+]
